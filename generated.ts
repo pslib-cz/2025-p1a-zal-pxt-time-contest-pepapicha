@@ -1,3 +1,4 @@
+//generované řešení tu je pro referenci, není určeno k bezmyšlenkovitému překopírování ;-)
 namespace Generated {
     enum GameState {
         Passive,   // čekání – hráč může zobrazit skóre nebo spustit hru
